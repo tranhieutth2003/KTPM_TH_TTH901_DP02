@@ -1,0 +1,11 @@
+package com.ordermanagement.state;
+
+public class NewOrderState implements OrderState{
+
+	@Override
+	public void handleOrder() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
